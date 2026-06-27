@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Olá! Sou Aline Gomes
 
-<!--
-**alinem-gomes/alinem-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados em formação, apaixonada por transformar dados em informações estratégicas.
 
-Here are some ideas to get you started:
+📊 Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Dashboard Financeiro em Excel
+📈 Dashboard de Vendas em Excel
+
+🛠 Tecnologias
+
+✔ Excel
+✔ Tabelas Dinâmicas
+✔ Dashboards
+✔ Git
+✔ GitHub
+
+📚 Atualmente estudando
+
+Power BI
+SQL
+Python
