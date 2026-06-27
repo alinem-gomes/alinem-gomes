@@ -5,6 +5,7 @@ Analista de Dados em formação, apaixonada por transformar dados em informaçõ
 📊 Projetos
 
 📈 Dashboard Financeiro em Excel
+
 📈 Dashboard de Vendas em Excel
 
 🛠 Tecnologias
