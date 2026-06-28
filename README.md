@@ -21,12 +21,17 @@ Dashboard interativo para acompanhamento de faturamento, desempenho de vendedore
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* Microsoft Excel
-* Dashboards
-* Tabelas Dinâmicas
-* Gráficos Dinâmicos
-* Git
-* GitHub
+🟩 Excel
+
+🟨 Power BI
+
+🐍 Python
+
+🟦 SQL
+
+⚫ GitHub
+
+🟧 Git
 
 ### 📚 Atualmente estudando
 
