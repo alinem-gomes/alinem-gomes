@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="Banner-github png" src="https://github.com/user-attachments/assets/7571f8fd-d311-4bf2-9423-f439597bd447" />
 # 👋 Olá! Eu sou a Aline Gomes
 
 Sou uma profissional em transição para a área de **Análise de Dados**, desenvolvendo projetos práticos para transformar dados em informações que apoiam a tomada de decisão.
